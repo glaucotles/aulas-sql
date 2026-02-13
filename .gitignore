@@ -1,0 +1,19 @@
+# SQL Server
+*.mdf
+*.ndf
+*.ldf
+*.bak
+*.trn
+
+# Temporários
+*.log
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# SSMS / Visual Studio
+.vs/
+*.user
+*.suo
